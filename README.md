@@ -280,7 +280,7 @@ acquisition/FIDs/Encoded/Fourier/
 and select **Fourier** as the decoding method.
 
 <p align="center">
-  <img src="Figures/Dncoding demonstration.png" alt="Decode FIDs GUI" width="900">
+  <img src="Figures/Decoding demonstration.png" alt="Decode FIDs GUI" width="900">
 </p>
 
 ---
