@@ -225,7 +225,7 @@ This demo corresponds to the **Build RF Pulses** function in the GUI.
 The program will combine the single-frequency input pulses into encoded pulse sets for Hadamard-type parallel excitation.
 
 <p align="center">
-  <img src="Figures/gui_build_rf_pulses.png" alt="Build RF Pulses GUI" width="900">
+  <img src="Figures/Encoding demonstration.png" alt="Build RF Pulses GUI" width="900">
 </p>
 
 #### Fourier example
@@ -280,7 +280,7 @@ acquisition/FIDs/Encoded/Fourier/
 and select **Fourier** as the decoding method.
 
 <p align="center">
-  <img src="Figures/gui_decode_fids.png" alt="Decode FIDs GUI" width="900">
+  <img src="Figures/Dncoding demonstration.png" alt="Decode FIDs GUI" width="900">
 </p>
 
 ---
